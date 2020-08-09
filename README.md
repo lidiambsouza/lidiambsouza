@@ -14,7 +14,7 @@ Apesar do meu conhecimento empírico com :
 Estou focando meus estudos 💻 em Angular e Java sempre aplicando as *boas práticas* e *metodologia ágil*.
  
  
-No meu tempo ⌚ livre curto brincar com meus gatinhos 🐈 , doramas 🎞️, anime 📺 , mangá 📘🇯🇵, livros 📚, jogos 🕹️. Gosto de carimbó 🎼, vatapá 🍽️, tacacá 🍽️, maniçoaba 🍽️ e aquele açaí com peixe 🍴 (Típica paraense)
+No meu tempo ⌚ livre curto brincar com meus gatinhos 🐈 , doramas 🎞️, anime 📺 , mangá 📘🇯🇵, livros 📚, jogos 🕹️. Gosto de carimbó 🎼, vatapá 🍽️, tacacá 🍽️, maniçoaba 🍽️ e aquele açaí com peixe 🍴🐟 (Típica paraense)
  
 
 <!--
@@ -23,3 +23,5 @@ No meu tempo ⌚ livre curto brincar com meus gatinhos 🐈 , doramas 🎞️, a
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiambsouza)](https://www.linkedin.com/in/lidiambsouza)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@lidiaBeirao)](https://twitter.com/@lidiaBeirao)
+[![Facebook Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
