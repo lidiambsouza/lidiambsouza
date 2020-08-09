@@ -24,4 +24,3 @@ No meu tempo ⌚ livre curto brincar com meus gatinhos 🐈 , doramas 🎞️, a
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lidiambsouza)](https://www.linkedin.com/in/lidiambsouza)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@lidiaBeirao)](https://twitter.com/@lidiaBeirao)
-[![Facebook Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
